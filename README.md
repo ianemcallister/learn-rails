@@ -1,28 +1,38 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Rails blog was built as part of the Coursera online course "Web Application Architectures".  It is a basic blog with comments and postings, built to demonstrate the basics of development with Ruby on Rails.
 
-Things you may want to cover:
+Specs
 
-* Ruby version
+* ruby 2.0.0p643
 
-* System dependencies
+* Dependencies include:
+	-SQLite3
+	-Sass-rails
+	-coffee-rails
+	-jquery-rails
+	-turbolinks
+	-jbuilder
+	-activerecord
+	-tilt
+	-figaro
+	-gibbon
+	-google_drive
+	-high_voltage
+	-simple_form
+	-zurb-foundation
+	and
+	-sprockets
 
-* Configuration
+* Configuration: N/A
 
-* Database creation
+* Database creation: N/A
 
-* Database initialization
+* Database initialization: N/A
 
-* How to run the test suite
+* How to run the test suite: N/a
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.): N/A
 
-* Deployment instructions
+* Deployment instructions: N/A
 
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.

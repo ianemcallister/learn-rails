@@ -16,7 +16,7 @@ gem 'activerecord-tableless'
 gem 'tilt', '~> 1.4.1'
 gem "figaro", "~> 0.7.0"
 gem 'gibbon'
-gem 'google_drive'
+gem 'google_drive', '~> 1.0'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
